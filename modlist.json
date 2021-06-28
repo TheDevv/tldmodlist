@@ -48,13 +48,13 @@
                 "notes": ""
             }
         }, {
-            "name": "Amarok",
+            "name": "Bedtime-Stories",
             "alias":[],
             "version": "1",
             "updated": "",
             "description": "Adds a mini story in mystery lake.",
-            "modURL": "https://github.com/TheDevv/Amarok",
-            "downloadURL": "https://github.com/TheDevv/Amarok/releases/download/v1/Amarok2.modcomponent",
+            "modURL": "https://github.com/TheDevv/Bedtime-Stories",
+            "downloadURL": "https://github.com/TheDevv/Bedtime-Stories/releases/download/v1/Amarok2.modcomponent",
             "testedon": {
                 "tldversion": "1.94",
                 "mlversion": "0.4.0.0"
