@@ -1,0 +1,120 @@
+{
+    "author": "Satan",
+    "authorURL": "https://github.com/TheDevv",
+    "mods": [{
+            "name": "FestivePack",
+            "alias":[],
+            "authorURL": "",
+            "version": "3.0",
+            "updated": "",
+            "description": "Adds items to make the game look festive.",
+            "modURL": "https://github.com/TheDevv/Mods-for-The-Long-dark",
+            "downloadURL": "https://github.com/TheDevv/Mods-for-The-Long-dark/releases/download/v.3/Festivepack3.0.modcomponent",
+            "testedon": {
+                "tldversion": "1.94",
+                "mlversion": "0.4.0.0"
+            },
+            "dependencies": ["ModComponent", "ModSettings"],
+            "updater":{
+                "enable": false,
+                "downloads":[]
+            },
+            "status": {
+                "working": false,
+                "issues": "",
+                "notes": ""
+            }
+        }, {
+            "name": "NewWorldFoods",
+            "authorURL": "",
+            "alias":[],
+            "version": "1",
+            "updated": "",
+            "description": "Adds new food items to the game world.",
+            "modURL": "https://github.com/TheDevv/Mods-for-The-Long-dark",
+            "downloadURL": "https://github.com/TheDevv/Mods-for-The-Long-dark/releases/download/v.3/Newworldfoods.modcomponent",
+            "testedon": {
+                "tldversion": "1.94",
+                "mlversion": "0.4.0.0"
+            },
+            "dependencies": ["ModComponent", "ModSettings"],
+            "updater":{
+                "enable": false,
+                "downloads":[]
+            },
+            "status": {
+                "working": false,
+                "issues": "",
+                "notes": ""
+            }
+        }, {
+            "name": "Amarok",
+            "alias":[],
+            "version": "1",
+            "updated": "",
+            "description": "Adds a mini story in mystery lake.",
+            "modURL": "https://github.com/TheDevv/Amarok",
+            "downloadURL": "https://github.com/TheDevv/Amarok/releases/download/v1/Amarok2.modcomponent",
+            "testedon": {
+                "tldversion": "1.94",
+                "mlversion": "0.4.0.0"
+            },
+            "dependencies": ["ModSettings", "ModComponent"],
+            "updater":{
+                "enable": false,
+                "downloads":[]
+            },
+            "status": {
+                "working": false,
+                "issues": "",
+                "notes": ""
+            }
+        }, {
+            "name": "Agriculture",
+            "alias":[],
+            "version": "2",
+            "updated": "",
+            "description": "Adds the ability to farm in tld.",
+            "modURL": "https://github.com/TheDevv/Mods-for-The-Long-dark",
+            "downloadURL": "https://github.com/TheDevv/Mods-for-The-Long-dark/releases/download/v.1.93.02/Agriculture.1.93.v2.modcomponent",
+            "testedon": {
+                "tldversion": "1.94",
+                "mlversion": "0.4.0.0"
+            },
+            "dependencies": ["ModSettings", "ModComponent", "Festivepack3.0"],
+            "updater":{
+                "enable": false,
+                "downloads":[]
+            },
+            "status": {
+                "working": false,
+                "issues": "",
+                "notes": ""
+            }
+        },
+        {
+            "name": "StoneTools",
+            "alias":[],
+            "version": "1",
+            "updated": "",
+            "description": "Adds the ability to create stone tools in tld.",
+            "modURL": "https://github.com/TheDevv/Stone-Tols",
+            "downloadURL": "https://github.com/TheDevv/Stone-Tols/releases/download/v.01/stonetools.modcomponent",
+            "testedon": {
+                "tldversion": "1.94",
+                "mlversion": "0.4.0.0"
+            },
+            "dependencies": ["ModSettings", "ModComponent"],
+            "updater":{
+                "enable": false,
+                "downloads":[]
+            },
+            "status": {
+                "working": false,
+                "issues": "",
+                "notes": ""
+
+            }
+        }
+    ]
+}
