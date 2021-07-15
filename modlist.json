@@ -51,8 +51,8 @@
             "version": "1.1.0",
             "updated": "2021-07-15",
             "description": "Adds the ability to farm in tld.",
-            "modURL": "https://github.com/TheDevv/Mods-for-The-Long-dark",
-            "downloadURL": "https://github.com/TheDevv/Mods-for-The-Long-dark/releases/download/v.1.93.02/Agriculture.1.93.v2.modcomponent",
+            "modURL": "https://github.com/TheDevv/ClothingBlueprints",
+            "downloadURL": "https://github.com/TheDevv/ClothingBlueprints/releases/download/1.1.0/ClothingBlueprints.modcomponent",
             "testedon": {
                 "tldversion": "1.94",
                 "mlversion": "0.4.0.0"
