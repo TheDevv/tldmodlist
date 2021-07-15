@@ -2,19 +2,18 @@
     "author": "Satan",
     "authorURL": "https://github.com/TheDevv",
     "mods": [{
-            "name": "FestivePack",
+            "name": "Agriculture",
             "alias":[],
-            "authorURL": "",
-            "version": "3.0",
+            "version": "2.0.0",
             "updated": "",
-            "description": "Adds items to make the game look festive.",
+            "description": "Adds the ability to farm in The Long Dark",
             "modURL": "https://github.com/TheDevv/Mods-for-The-Long-dark",
-            "downloadURL": "https://github.com/TheDevv/Mods-for-The-Long-dark/releases/download/v.3/Festivepack3.0.modcomponent",
+            "downloadURL": "https://github.com/TheDevv/Mods-for-The-Long-dark/releases/download/v.1.93.02/Agriculture.1.93.v2.modcomponent",
             "testedon": {
                 "tldversion": "1.94",
                 "mlversion": "0.4.0.0"
             },
-            "dependencies": ["ModComponent", "ModSettings"],
+            "dependencies": ["ModSettings", "ModComponent", "Festive-Pack"],
             "updater":{
                 "enable": false,
                 "downloads":[]
@@ -24,33 +23,10 @@
                 "issues": "",
                 "notes": ""
             }
-        }, {
-            "name": "NewWorldFoods",
-            "authorURL": "",
-            "alias":[],
-            "version": "1",
-            "updated": "",
-            "description": "Adds new food items to the game world.",
-            "modURL": "https://github.com/TheDevv/Mods-for-The-Long-dark",
-            "downloadURL": "https://github.com/TheDevv/Mods-for-The-Long-dark/releases/download/v.3/Newworldfoods.modcomponent",
-            "testedon": {
-                "tldversion": "1.94",
-                "mlversion": "0.4.0.0"
-            },
-            "dependencies": ["ModComponent", "ModSettings"],
-            "updater":{
-                "enable": false,
-                "downloads":[]
-            },
-            "status": {
-                "working": false,
-                "issues": "",
-                "notes": ""
-            }
-        }, {
+        },{
             "name": "Bedtime-Stories",
             "alias":[],
-            "version": "1",
+            "version": "1.0.0",
             "updated": "",
             "description": "Adds a mini story in mystery lake.",
             "modURL": "https://github.com/TheDevv/Bedtime-Stories",
@@ -69,10 +45,10 @@
                 "issues": "",
                 "notes": ""
             }
-        }, {
-            "name": "Agriculture",
+        },{
+            "name": "ClothingBlueprints",
             "alias":[],
-            "version": "2",
+            "version": "1.1.0",
             "updated": "",
             "description": "Adds the ability to farm in tld.",
             "modURL": "https://github.com/TheDevv/Mods-for-The-Long-dark",
@@ -81,7 +57,29 @@
                 "tldversion": "1.94",
                 "mlversion": "0.4.0.0"
             },
-            "dependencies": ["ModSettings", "ModComponent", "Festivepack3.0"],
+            "dependencies": ["ModSettings", "ModComponent"],
+            "updater":{
+                "enable": false,
+                "downloads":[]
+            },
+            "status": {
+                "working": true,
+                "issues": "",
+                "notes": ""
+            }
+        },{
+            "name": "Festive-Pack",
+            "alias":[],
+            "version": "3.0.0",
+            "updated": "",
+            "description": "Adds items to make the game look festive.",
+            "modURL": "https://github.com/TheDevv/Mods-for-The-Long-dark",
+            "downloadURL": "https://github.com/TheDevv/Mods-for-The-Long-dark/releases/download/v.3/Festivepack3.0.modcomponent",
+            "testedon": {
+                "tldversion": "1.94",
+                "mlversion": "0.4.0.0"
+            },
+            "dependencies": ["ModComponent", "ModSettings"],
             "updater":{
                 "enable": false,
                 "downloads":[]
@@ -91,15 +89,36 @@
                 "issues": "",
                 "notes": ""
             }
-        },
-        {
+        },{
+            "name": "NewWorldFoods",
+            "alias":[],
+            "version": "1.0.0",
+            "updated": "",
+            "description": "Adds new food items to the game world.",
+            "modURL": "https://github.com/TheDevv/Mods-for-The-Long-dark",
+            "downloadURL": "https://github.com/TheDevv/Mods-for-The-Long-dark/releases/download/v.3/Newworldfoods.modcomponent",
+            "testedon": {
+                "tldversion": "1.94",
+                "mlversion": "0.4.0.0"
+            },
+            "dependencies": ["ModComponent", "ModSettings"],
+            "updater":{
+                "enable": false,
+                "downloads":[]
+            },
+            "status": {
+                "working": false,
+                "issues": "",
+                "notes": ""
+            }
+        },{
             "name": "StoneTools",
             "alias":[],
-            "version": "1",
+            "version": "1.0.0",
             "updated": "",
             "description": "Adds the ability to create stone tools in tld.",
-            "modURL": "https://github.com/TheDevv/Stone-Tols",
-            "downloadURL": "https://github.com/TheDevv/Stone-Tols/releases/download/v.01/stonetools.modcomponent",
+            "modURL": "https://github.com/TheDevv/Stone-Tools",
+            "downloadURL": "https://github.com/TheDevv/Stone-Tools/releases/download/v.01/stonetools.modcomponent",
             "testedon": {
                 "tldversion": "1.94",
                 "mlversion": "0.4.0.0"
