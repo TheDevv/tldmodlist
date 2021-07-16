@@ -59,7 +59,7 @@
             },
             "dependencies": ["ModSettings", "ModComponent"],
             "updater":{
-                "enable": false,
+                "enable": true,
                 "downloads":[]
             },
             "status": {
@@ -70,23 +70,23 @@
         },{
             "name": "Festive-Pack",
             "alias":[],
-            "version": "3.0.0",
-            "updated": "2021-04-01",
+            "version": "3.1.0",
+            "updated": "2021-07-15",
             "description": "Adds items to make the game look festive.",
-            "modURL": "https://github.com/TheDevv/Mods-for-The-Long-dark",
-            "downloadURL": "https://github.com/TheDevv/Mods-for-The-Long-dark/releases/download/v.3/Festivepack3.0.modcomponent",
+            "modURL": "https://github.com/TheDevv/Festive-Pack",
+            "downloadURL": "https://github.com/TheDevv/Festive-Pack/releases/download/3.1.0/Festive-Pack.modcomponent",
             "testedon": {
                 "tldversion": "1.94",
                 "mlversion": "0.4.0.0"
             },
             "dependencies": ["ModComponent", "ModSettings"],
             "updater":{
-                "enable": false,
+                "enable": true,
                 "downloads":[]
             },
             "status": {
-                "working": false,
-                "issues": "",
+                "working": true,
+                "issues": "Item sizes, inventory icons, and box colliders might not be correct",
                 "notes": ""
             }
         },{
