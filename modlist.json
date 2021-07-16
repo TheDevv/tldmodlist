@@ -112,6 +112,28 @@
                 "notes": ""
             }
         },{
+            "name": "Prison-Pack",
+            "alias":[],
+            "version": "1.0.0",
+            "updated": "2021-07-16",
+            "description": "Adds prison clothing to the game.",
+            "modURL": "https://github.com/TheDevv/Prison-Pack",
+            "downloadURL": "https://github.com/TheDevv/Prison-Pack/releases/download/1.0.0/Prison-Pack.modcomponent",
+            "testedon": {
+                "tldversion": "1.94",
+                "mlversion": "0.4.0.0"
+            },
+            "dependencies": ["ModComponent", "ModSettings"],
+            "updater":{
+                "enable": true,
+                "downloads":[]
+            },
+            "status": {
+                "working": true,
+                "issues": "",
+                "notes": ""
+            }
+        },{
             "name": "StoneTools",
             "alias":[],
             "version": "1.0.0",
