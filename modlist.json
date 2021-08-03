@@ -48,14 +48,14 @@
         },{
             "name": "ClothingBlueprints",
             "alias":[],
-            "version": "1.1.0",
-            "updated": "2021-07-15",
+            "version": "1.2.0",
+            "updated": "2021-08-02",
             "description": "Adds the ability to craft any clothing item.",
             "modURL": "https://github.com/TheDevv/ClothingBlueprints",
-            "downloadURL": "https://github.com/TheDevv/ClothingBlueprints/releases/download/1.1.0/ClothingBlueprints.modcomponent",
+            "downloadURL": "https://github.com/TheDevv/ClothingBlueprints/releases/download/1.2.0/ClothingBlueprints.modcomponent",
             "testedon": {
                 "tldversion": "1.94",
-                "mlversion": "0.4.0.0"
+                "mlversion": "0.4.3.0"
             },
             "dependencies": ["ModSettings", "ModComponent"],
             "updater":{
