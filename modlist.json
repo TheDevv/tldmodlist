@@ -70,14 +70,14 @@
         },{
             "name": "Festive-Pack",
             "alias":[],
-            "version": "3.1.0",
-            "updated": "2021-07-15",
+            "version": "3.2.0",
+            "updated": "2021-09-27",
             "description": "Adds items to make the game look festive.",
             "modURL": "https://github.com/TheDevv/Festive-Pack",
-            "downloadURL": "https://github.com/TheDevv/Festive-Pack/releases/download/3.1.0/Festive-Pack.modcomponent",
+            "downloadURL": "https://github.com/TheDevv/Festive-Pack/releases/download/3.2.0/Festive-Pack.modcomponent",
             "testedon": {
                 "tldversion": "1.94",
-                "mlversion": "0.4.0.0"
+                "mlversion": "0.4.3.0"
             },
             "dependencies": ["ModComponent", "ModSettings"],
             "updater":{
@@ -86,7 +86,7 @@
             },
             "status": {
                 "working": true,
-                "issues": "Item sizes, inventory icons, and box colliders might not be correct",
+                "issues": "",
                 "notes": ""
             }
         },{
